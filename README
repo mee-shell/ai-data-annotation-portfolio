@@ -4,3 +4,10 @@ This repository contains example datasets and annotation projects
 demonstrating AI evaluation workflows.
 
 Projects:
+	1.	AI Response Evaluation
+
+
+Tools
+	•	spreadsheets (dataset.csv)
+	•	annotation guidelines (annotation_guidelines.md)
+	•	GitHub documentation (README.md)
