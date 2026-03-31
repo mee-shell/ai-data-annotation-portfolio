@@ -1,0 +1,36 @@
+prompt,ai_response,label,explanation
+Who is the current Prime Minister of the Netherlands?,The Prime Minister of the Netherlands is Mark Rutte who has held the position since 2010.,correct,Mark Rutte served as Prime Minister from 2010 to 2024.
+What is the capital of the Netherlands?,The capital of the Netherlands is Amsterdam although the government is based in The Hague.,correct,Amsterdam is the constitutional capital while the government sits in The Hague.
+Which river flows through Rotterdam?,The city of Rotterdam is located on the Rhine River.,partially_correct,Rotterdam lies mainly on the Nieuwe Maas which is part of the Rhine Meuse delta.
+When did the Netherlands join the European Union?,The Netherlands joined the European Union in 1995.,hallucination,The Netherlands was a founding member of the European Economic Community in 1957.
+Which famous painter created The Night Watch?,The Night Watch was painted by Rembrandt van Rijn.,correct,Rembrandt painted The Night Watch in 1642.
+What is the tallest mountain in the Netherlands?,The tallest mountain in the Netherlands is Mount Vaalserberg which is 323 meters tall.,partially_correct,The correct name is Vaalserberg not Mount Vaalserberg.
+Which Dutch city is known for its historic canals and Anne Frank House?,The Anne Frank House is located in Amsterdam which is famous for its canal system.,correct,Amsterdam contains the Anne Frank House and historic canals.
+What language is primarily spoken in the Netherlands?,The primary language spoken in the Netherlands is Dutch.,correct,Dutch is the official language.
+Which Dutch company produces the beer Heineken?,Heineken beer is produced by the Heineken Company headquartered in Amsterdam.,correct,Heineken is a Dutch brewing company based in Amsterdam.
+Where is the International Court of Justice located?,The International Court of Justice is located in The Hague in the Netherlands.,correct,The ICJ is located in the Peace Palace in The Hague.
+Which sea borders the Netherlands?,The Netherlands borders the Baltic Sea.,hallucination,The Netherlands borders the North Sea.
+Which Dutch football club plays at the Johan Cruyff Arena?,The Johan Cruyff Arena is the home stadium of AFC Ajax.,correct,AFC Ajax plays its home matches there.
+What is the Dutch parliament called?,The parliament of the Netherlands is called the Staten Generaal.,correct,The States General is the Dutch parliament.
+Which Dutch scientist developed the first microscope?,The first microscope was invented by Antonie van Leeuwenhoek.,partially_correct,Leeuwenhoek improved microscopes but did not invent the first one.
+What is the population of the Netherlands?,The Netherlands has a population of about 5 million people.,hallucination,The real population is around 17 to 18 million.
+Which Dutch city is famous for the Delft Blue pottery tradition?,Delft Blue pottery originates from the city of Delft.,correct,Delft is historically known for its blue and white ceramics.
+What color is traditionally associated with the Dutch royal family?,The Dutch royal family is traditionally associated with the color orange.,correct,Orange represents the House of Orange Nassau.
+Which famous Dutch painter cut off his ear?,The Dutch painter Vincent van Gogh cut off part of his ear.,correct,Van Gogh injured his ear in 1888.
+Which Dutch province is home to the city of Utrecht?,Utrecht is located in the province of South Holland.,hallucination,Utrecht is located in the province of Utrecht.
+What is the national airline of the Netherlands?,The national airline of the Netherlands is KLM Royal Dutch Airlines.,correct,KLM is the flag carrier airline of the Netherlands.
+Which large engineering project protects the Netherlands from flooding?,The Delta Works is a system of dams and barriers built to protect the Netherlands from flooding.,correct,The Delta Works protects the southwestern Netherlands from the sea.
+What is the traditional Dutch footwear made of wood?,Traditional wooden shoes from the Netherlands are called clogs.,correct,Wooden clogs are a traditional Dutch product.
+Which Dutch city hosts the Rijksmuseum?,The Rijksmuseum is located in Amsterdam.,correct,The museum is located at Museumplein in Amsterdam.
+Which famous Dutch cyclist won the Tour de France five times?,Dutch cyclist Joop Zoetemelk won the Tour de France five times.,hallucination,Zoetemelk only won the Tour de France once in 1980.
+Which Dutch city is known as the Gateway to Europe because of its large port?,Rotterdam is often called the Gateway to Europe due to its massive port.,correct,The Port of Rotterdam is the largest port in Europe.
+What currency is used in the Netherlands?,The Netherlands uses the Euro as its official currency.,correct,The Euro replaced the Dutch guilder in 2002.
+Which Dutch island chain lies in the Wadden Sea?,The West Frisian Islands lie in the Wadden Sea.,correct,This island chain stretches along the Dutch northern coast.
+Which Dutch artist painted Girl with a Pearl Earring?,Girl with a Pearl Earring was painted by Johannes Vermeer.,correct,Vermeer painted the work around 1665.
+Which Dutch city is famous for its cheese market?,The cheese market in Gouda is one of the most famous in the Netherlands.,correct,Gouda hosts a well known historic cheese market.
+What is the largest lake in the Netherlands?,The largest lake in the Netherlands is Lake IJsselmeer.,correct,IJsselmeer is the largest lake created by the Afsluitdijk.
+Which Dutch province is known for its Frisian language?,The Frisian language is spoken in the province of Friesland.,correct,Friesland recognizes Frisian as an official language.
+When was the Netherlands founded as a kingdom?,The Kingdom of the Netherlands was established in 1815.,correct,The kingdom was established after the Napoleonic Wars.
+What is the tallest building in Amsterdam?,The tallest building in Amsterdam is the Rembrandt Tower.,hallucination,Rembrandt Tower was once tallest but newer towers now exceed it.
+Which flower is the Netherlands famous for exporting?,The Netherlands is famous for exporting tulips.,correct,Tulips are a major Dutch export and cultural symbol.
+Which Dutch city hosts Europes largest port?,Europes largest port is located in Rotterdam.,correct,The Port of Rotterdam is the largest in Europe.

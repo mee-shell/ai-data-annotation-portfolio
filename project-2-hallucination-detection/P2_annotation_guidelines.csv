@@ -1,0 +1,119 @@
+# Hallucination Annotation Guidelines
+
+## Overview
+
+This document describes the guidelines used to annotate AI-generated responses in the hallucination detection dataset.
+
+The goal of the annotation task is to determine whether a model response contains incorrect, fabricated, or misleading information.
+
+The annotator reviews each prompt and AI-generated response and assigns one of three labels:
+
+- correct
+- partially_correct
+- hallucination
+
+---
+
+## Annotation Procedure
+
+For each dataset entry:
+
+1. Read the prompt carefully.
+2. Review the AI-generated response.
+3. Verify the factual accuracy of the information.
+4. Assign the appropriate label.
+5. Provide a short explanation describing the reasoning.
+
+Annotators should rely on trusted factual sources when verifying information.
+
+---
+
+## Label Definitions
+
+### correct
+
+The response is factually accurate and does not contain misleading or fabricated information.
+
+Characteristics:
+
+- Information is correct
+- No major factual errors
+- Minor wording differences are acceptable
+
+Example:
+
+Prompt: What is the capital of the Netherlands?  
+Response: Amsterdam is the capital of the Netherlands.
+
+Label: correct
+
+---
+
+### partially_correct
+
+The response contains some correct information but also includes inaccuracies, oversimplifications, or misleading details.
+
+Characteristics:
+
+- Core idea may be correct
+- Important details are incorrect or imprecise
+- The response may oversimplify or misrepresent facts
+
+Example:
+
+Prompt: Which river flows through Rotterdam?  
+Response: Rotterdam lies on the Rhine River.
+
+Explanation: Rotterdam is located on the Nieuwe Maas, which is part of the Rhine–Meuse delta.
+
+Label: partially_correct
+
+---
+
+### hallucination
+
+The response contains clearly incorrect or fabricated information.
+
+Characteristics:
+
+- The main fact is incorrect
+- The response invents information
+- The response contradicts widely accepted facts
+
+Example:
+
+Prompt: Which sea borders the Netherlands?  
+Response: The Netherlands borders the Baltic Sea.
+
+Explanation: The Netherlands borders the North Sea.
+
+Label: hallucination
+
+---
+
+## General Annotation Rules
+
+Annotators should follow these principles:
+
+- Evaluate factual correctness, not writing style.
+- Ignore minor grammatical issues if the information is correct.
+- Focus on whether the core factual claim is accurate.
+- If the main fact is wrong, label the response as hallucination.
+
+---
+
+## Edge Cases
+
+### Outdated Information
+
+If the response reflects outdated information but was historically true, it may be labeled partially_correct depending on the context.
+
+### Ambiguous Prompts
+
+If the prompt allows multiple valid answers, the response should not be labeled hallucination unless the information is clearly false.
+
+---
+
+## Goal of the Annotation Task
+
+The purpose of these annotations is to help identify hallucination patterns in AI-generated responses and simulate evaluation workflows used in large language model development.
