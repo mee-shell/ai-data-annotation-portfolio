@@ -1,5 +1,5 @@
 prompt,ai_response,label,explanation
-Who is the current Prime Minister of the Netherlands?,The Prime Minister of the Netherlands is Mark Rutte who has held the position since 2010.,correct,Mark Rutte served as Prime Minister from 2010 to 2024.
+Who is the current Prime Minister of the Netherlands?,The Prime Minister of the Netherlands is Mark Rutte who has held the position since 2010.,partially_correct,Mark Rutte served as Prime Minister from 2010 to 2024.
 What is the capital of the Netherlands?,The capital of the Netherlands is Amsterdam although the government is based in The Hague.,correct,Amsterdam is the constitutional capital while the government sits in The Hague.
 Which river flows through Rotterdam?,The city of Rotterdam is located on the Rhine River.,partially_correct,Rotterdam lies mainly on the Nieuwe Maas which is part of the Rhine Meuse delta.
 When did the Netherlands join the European Union?,The Netherlands joined the European Union in 1995.,hallucination,The Netherlands was a founding member of the European Economic Community in 1957.
