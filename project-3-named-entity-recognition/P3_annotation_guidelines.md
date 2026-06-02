@@ -30,7 +30,7 @@ Type: Entity Name
 
 ## Examples
 
-1. Sentence: `"Mark Rutte has been the Prime Minister of the Netherlands since 2010"`  
+1. Sentence: `"Mark Rutte was elected as the Prime Minister of the Netherlands in 2010"`  
    Entities: `Person: Mark Rutte; Location: Netherlands; Date: 2010`
 
 2. Sentence: `"The Rijksmuseum is located in Amsterdam"`  
